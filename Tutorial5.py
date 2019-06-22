@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 
-
+#This shows information over a time period
 days = [1,2,3,4,5]
 
 sleeping =  [7,8,6,11,7]
